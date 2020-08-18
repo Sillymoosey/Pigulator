@@ -7,11 +7,12 @@ The Pigulator is a price calculating tool that allows users to divid up the pric
 
 ## Table of Contents
 
-## 1. Use Statements
-## 2. Use Cases
-## 3. Requirments
-## 4. Concept Diagrams
-## 5. User Diagram
+### 1. Use Statements
+### 2. Use Cases
+### 3. Concept Diagrams
+### 4. User Diagram
+### 5. Requirments Table
+### 6. Test Table
 
 ------
 
@@ -34,22 +35,6 @@ The Pigulator is a price calculating tool that allows users to divid up the pric
 
 ---
 
-## Requirments
-* 1.0 Calculates price of pork.
-  * 1.1 be able to calculate multiple user entries
-  * 1.2 be able to divide total price among multiple users
-    * 1.2.1be able to have users decide how much of a share they pay.
-  * 1.3 be able to pick whole,1/2,1/4 pig amounts
-  * 1.4 be able to select multiple pigs to be calculated.
-  * 1.5 be able to draw fixed states from data table
-  
-* 2.0 Have social media connectivity
-    * 2.1 be able to share to Facebook/Instagram
-
-* 3.0 Connect to contact page of ranch website.
-
----
-
 ## Concept Diagrams
 Main Pigulator web page concept.
 ![Concept Diagram](Pigulator4.png)
@@ -63,3 +48,35 @@ Secondary Pigulator concept.
 ## User Diagram
 User Diagram for the Pigulator.
 ![user Diagram](User%20Diagram.PNG)
+
+---
+
+## Requirments
+|R-ID |Description |Test Type | Test-ID |
+|:------|:------------:|:----------:|:---------:|
+|1.0  | Calculates price of pork| Demonstration | 1 |
+|1.1  | be able to calculate multiple user entries| Test | 2 |
+|1.2  | be able to divide total price among multiple users| Test | 3 |
+|1.2.1| be able to have users decide how much of a share they pay| Test | 4 |
+|1.3  | be able to pick whole,1/2 pig amounts| Test | 5 |
+|1.4  | be able to select multiple pigs to be calculated| Test | 6 |
+|1.5  | be able to draw fixed stats from data table| Test | 7 |
+|2.0  | Have social media connectivity| Demonstration | 8 |
+|2.1  | be able to share to Facebook/Instagram | Test | 9 |
+|3.0  | Connect to contact page of ranch website| Demonstrate | 10 |
+
+---
+
+## Test Table
+|R-ID |Procedure |Status | Test-ID |
+|:------|:------------:|:----------:|:---------:|
+|1.0  | Click Calculate button/Examin result/ unit test result|Not Tested | 1 |
+|1.1  | Type how many users will purchase/ unit test result| Not Tested | 2 |
+|1.2  | Unit test division result to check math| Not Tested | 3 |
+|1.2.1| input each users percent stake in pig/ unit test percent total/ unit test division| Not Tested | 4 |
+|1.3  | click radio button for whole or 1/2 pig/ unit test proper price charge| Not Tested | 5 |
+|1.4  | user input number of pigs/ unit test result| Not Tested | 6 |
+|1.5  | unit test pig stats from SQL Data Base| Not Tested | 7 |
+|2.0  | click on social media button/ ensure button links to pigulator post page| Not Tested | 8 |
+|2.1  | intagrate links to instagram and facebook/ ensure links to pigulator post page | Not Tested | 9 |
+|3.0  | intagrate link to ranch website contact page| Not Tested | 10 |
