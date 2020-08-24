@@ -5,7 +5,7 @@
 
 The Pigulator is a price calculating tool that allows users to divid up the price of a pig for a farming website. The Pigulator will allow users to select the percentage they would like to pay, how many of them are pitching in, the number of pigs they want, and wether they want a whole pig or half a pig. While the price of a whole or half pig is a set number users may want to split the cost since organic, pasture razed pork is expensive. This calculator will be implemented on the farming website inorder to help the users make an informed decision on their perchase.  
 
-## [Table of Contents](#table-top)
+## Table of Contents
 
 ### 1. [Use Statements](#Use-Statements)
 ### 2. [Use Cases](#use-cases)
@@ -23,7 +23,7 @@ The Pigulator is a price calculating tool that allows users to divid up the pric
 > As a Rancher I need/want a way to simply show customers prices So that I can increase my sales.
 
 > As a Consumer I need/want a way to understand the price of high quality food products So that I can make an informed decision.
-[Table of Contents](#table-top)
+
 ---
 
 ## [Use Cases](#use-cases)
