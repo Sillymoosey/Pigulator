@@ -7,7 +7,7 @@ The Pigulator is a price calculating tool that allows users to divid up the pric
 
 ## Table of Contents
 
-### 1. Use Statements
+### 1. [Use Statements](#Use-Statements)
 ### 2. Use Cases
 ### 3. Concept Diagrams
 ### 4. User Diagram
@@ -16,7 +16,7 @@ The Pigulator is a price calculating tool that allows users to divid up the pric
 
 ------
 
-## Use Statements
+## [Use Statements](#Use-Statements)
 
 > As a restaurant I need/want high quality pork So that I can service my customer base.
 
