@@ -68,15 +68,15 @@ User Diagram for the Pigulator.
 ---
 
 ## [Test Table](#Test-Table)
-|R-ID |Procedure |Status | Test-ID |
+|Test-ID |Procedure |Status | R-ID |
 |:------|:------------:|:----------:|:---------:|
-|1.0  | Click Calculate button/Examin result/ unit test result|Not Tested | 1 |
-|1.1  | Type how many users will purchase/ unit test result| Not Tested | 2 |
-|1.2  | Unit test division result to check math| Not Tested | 3 |
-|1.2.1| input each users percent stake in pig/ unit test percent total/ unit test division| Not Tested | 4 |
-|1.3  | click radio button for whole or 1/2 pig/ unit test proper price charge| Not Tested | 5 |
-|1.4  | user input number of pigs/ unit test result| Not Tested | 6 |
-|1.5  | unit test pig stats from SQL Data Base| Not Tested | 7 |
-|2.0  | click on social media button/ ensure button links to pigulator post page| Not Tested | 8 |
-|2.1  | intagrate links to instagram and facebook/ ensure links to pigulator post page | Not Tested | 9 |
-|3.0  | intagrate link to ranch website contact page| Not Tested | 10 |
+|1  | Click Calculate button/Examin result/ unit test result|Not Tested | 1.0 |
+|2 | Type how many users will purchase/ unit test result| Not Tested | 1.1 |
+|3  | Unit test division result to check math| Not Tested | 1.2 |
+|4| input each users percent stake in pig/ unit test percent total/ unit test division| Not Tested | 1.2.1 |
+|5  | click radio button for whole or 1/2 pig/ unit test proper price charge| Not Tested | 1.3 |
+|6  | user input number of pigs/ unit test result| Not Tested | 1.4  |
+|7  | unit test pig stats from SQL Data Base| Not Tested | 1.5 |
+|8  | click on social media button/ ensure button links to pigulator post page| Not Tested | 2.0 |
+|9  | intagrate links to instagram and facebook/ ensure links to pigulator post page | Not Tested | 2.1 |
+|10  | intagrate link to ranch website contact page| Not Tested | 3.0 |
