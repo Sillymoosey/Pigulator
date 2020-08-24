@@ -5,14 +5,14 @@
 
 The Pigulator is a price calculating tool that allows users to divid up the price of a pig for a farming website. The Pigulator will allow users to select the percentage they would like to pay, how many of them are pitching in, the number of pigs they want, and wether they want a whole pig or half a pig. While the price of a whole or half pig is a set number users may want to split the cost since organic, pasture razed pork is expensive. This calculator will be implemented on the farming website inorder to help the users make an informed decision on their perchase.  
 
-## Table of Contents
+## [Table of Contents](#table-top)
 
 ### 1. [Use Statements](#Use-Statements)
 ### 2. [Use Cases](#use-cases)
-### 3. Concept Diagrams
-### 4. User Diagram
-### 5. Requirments Table
-### 6. Test Table
+### 3. [Concept Diagrams](#Concept-Diagrams)
+### 4. [User Diagram](#user-Diagrams)
+### 5. [Requirments Table](#Requirments-Table)
+### 6. [Test Table](#Test-Table)
 
 ------
 
@@ -23,7 +23,7 @@ The Pigulator is a price calculating tool that allows users to divid up the pric
 > As a Rancher I need/want a way to simply show customers prices So that I can increase my sales.
 
 > As a Consumer I need/want a way to understand the price of high quality food products So that I can make an informed decision.
-
+[Table of Contents](#table-top)
 ---
 
 ## [Use Cases](#use-cases)
@@ -35,7 +35,7 @@ The Pigulator is a price calculating tool that allows users to divid up the pric
 
 ---
 
-## Concept Diagrams
+## [Concept Diagrams](#Concept-Diagrams)
 Main Pigulator web page concept.
 ![Concept Diagram](Pigulator4.png)
 
@@ -45,13 +45,13 @@ Secondary Pigulator concept.
 
 ---
 
-## User Diagram
+## [User Diagram](#user-Diagrams)
 User Diagram for the Pigulator.
 ![user Diagram](User%20Diagram.PNG)
 
 ---
 
-## Requirments
+## [Requirments Table](#Requirments-Table)
 |R-ID |Description |Test Type | Test-ID |
 |:------|:------------:|:----------:|:---------:|
 |1.0  | Calculates price of pork| Demonstration | 1 |
@@ -67,7 +67,7 @@ User Diagram for the Pigulator.
 
 ---
 
-## Test Table
+## [Test Table](#Test-Table)
 |R-ID |Procedure |Status | Test-ID |
 |:------|:------------:|:----------:|:---------:|
 |1.0  | Click Calculate button/Examin result/ unit test result|Not Tested | 1 |
