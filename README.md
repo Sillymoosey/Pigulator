@@ -8,7 +8,7 @@ The Pigulator is a price calculating tool that allows users to divid up the pric
 ## Table of Contents
 
 ### 1. [Use Statements](#Use-Statements)
-### 2. [Use Cases](#2)
+### 2. [Use Cases](#use-cases)
 ### 3. Concept Diagrams
 ### 4. User Diagram
 ### 5. Requirments Table
@@ -26,7 +26,7 @@ The Pigulator is a price calculating tool that allows users to divid up the pric
 
 ---
 
-## [Use Cases](#2)
+## [Use Cases](#use-cases)
 
 1. Given one whole pig for sale, and one customer, Ted. When Ted requests the price then the price of one pig is displayed.
 2. Given two whole pigs for sale, and one customer, Billie’s BBQ. When Billie’s BBQ requests the price then the price of the two whole pigs is displayed in one combined figure.
