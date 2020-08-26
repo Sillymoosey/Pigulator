@@ -24,7 +24,7 @@ The Pigulator is a price calculating tool that allows users to divid up the pric
 
 > As a Consumer I need/want a way to understand the price of high quality food products So that I can make an informed decision.
 
----[back to top](#Table-ofContents)
+---
 
 ## [Use Cases](#use-cases)
 
