@@ -1,4 +1,6 @@
 # Pigulator
+## Concept
+The Pigulator was born to solve a single issue, explaning and calculating the the price of a pig with multiple customers splitting the cost. The pigulator will allow a quick reference for customers to see roughly what the will be expected to pay and how they can lesson the cost by crowd funding a single purchase.
 ## Summary
 
 ---
