@@ -79,13 +79,13 @@ User Diagram for the Pigulator.
 ## [Test Table](#Test-Table)
 |Test-ID |Procedure |Status | R-ID |
 |:------|:------------:|:----------:|:---------:|
-|1  | Click Calculate button/Examin result/ unit test result|Not Tested | 1.0 |
-|2 | Type how many users will purchase/ unit test result| Not Tested | 1.1 |
-|3  | Unit test division result to check math| Not Tested | 1.2 |
-|4| input each users percent stake in pig/ unit test percent total/ unit test division| Not Tested | 1.2.1 |
-|5  | click radio button for whole or 1/2 pig/ unit test proper price charge| Not Tested | 1.3 |
-|6  | user input number of pigs/ unit test result| Not Tested | 1.4  |
-|7  | unit test pig stats from SQL Data Base| Not Tested | 1.5 |
+|1  | Click Calculate button/Examin result/ unit test result|Passed | 1.0 |
+|2 | Type how many users will purchase/ unit test result| Passed | 1.1 |
+|3  | Unit test division result to check math| Passed | 1.2 |
+|4| input each users percent stake in pig/ unit test percent total/ unit test division| Failed | 1.2.1 |
+|5  | click radio button for whole or 1/2 pig/ unit test proper price charge| Passed | 1.3 |
+|6  | user input number of pigs/ unit test result| Passed | 1.4  |
+|7  | unit test pig stats from SQL Data Base| Failed | 1.5 |
 |8  | click on social media button/ ensure button links to pigulator post page| Not Tested | 2.0 |
 |9  | intagrate links to instagram and facebook/ ensure links to pigulator post page | Not Tested | 2.1 |
-|10  | intagrate link to ranch website contact page| Not Tested | 3.0 |
+|10  | intagrate link to ranch website contact page| Passed | 3.0 |
